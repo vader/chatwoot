@@ -1,1 +1,1 @@
-FROM ghcr.io/railwayapp-templates/chatwoot:Community
+FROM chatwoot/chatwoot:v4.13.0-ce
